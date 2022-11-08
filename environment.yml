@@ -1,0 +1,19 @@
+name: tfgpu
+channels:
+  - defaults
+dependencies:
+  - python=3.8.8
+  - pip:
+    - ipython==7.21.0
+    - jupyterlab==3.0.16
+    - keras==2.4.3
+    - matplotlib==3.3.4
+    - numpy==1.19.5
+    - pandas==1.2.2
+    - scikit-image==0.18.2
+    - scikit-learn==0.24.1
+    - scipy==1.6.1
+    - seaborn==0.11.1
+    - segyio==1.9.6
+    - seislab==1.0.0
+    - tensorflow==2.4.1
