@@ -1,6 +1,9 @@
 benchmaru
 A comparative study between deep learning models applied in seismic inversion.
 
+Marmousi2 MAT file can be downloaded using:
+wget -P data/raw https://www.dropbox.com/s/3kgi0l2vl94a1mt/MarmousiModel2.mat
+
 Volve data and code adapted from this source:
 https://github.com/vishaldas/CNN_based_impedance_inversion
 
