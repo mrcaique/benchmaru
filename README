@@ -7,6 +7,11 @@ wget -P data/raw https://www.dropbox.com/s/3kgi0l2vl94a1mt/MarmousiModel2.mat
 Volve data and code adapted from this source:
 https://github.com/vishaldas/CNN_based_impedance_inversion
 
+WGAN-GP implementation based on the informations provided by:
+Wu, B.; Meng, D.; Zhao, H. Semi-Supervised Learning for Seismic Impedance
+Inversion Using Generative Adversarial Networks. Remote Sens. 2021, 13, 909.
+https://doi.org/10.3390/rs13050909
+
 Paper reference:
 Marques, C.R.; dos Santos, V.G.; Lunelli, R.; Roisenberg, M.; Rodrigues, B.B.
 Analysis of Deep Learning Neural Networks for Seismic Impedance Inversion: A
